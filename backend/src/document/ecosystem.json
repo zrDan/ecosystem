@@ -1,0 +1,989 @@
+[
+  {
+    "id": 1,
+    "type": "Departamento",
+    "owner": "SKG Asesories Inmobiliarios",
+    "price": "85,000",
+    "offer": "Renta",
+    "location": {
+      "delegation": "Miguel Hidalgo",
+      "neighborhood": "Polanco",
+      "map": "Polanco, Miguel Hidalgo",
+      "reference": {
+        "hotel": ["PUG SEAL ALLAN POE", "Las Alcobas"],
+        "government": ["Alcaldía Miguel Hidalgo"],
+        "park": ["Parque Lincoln"],
+        "mall": ["Plaza Moliere", "Pasaje Polanco"]
+      }
+    },
+    "details": {
+      "bedroom": 3,
+      "room": 3,
+      "parking": 1,
+      "bathroom": 2,
+      "area": 184,
+      "levels": 1
+    },
+    "description": "SKG Asesores Inmobiliarios Venden o Rentan departamento estilo moderno, exterior, recien remodelado, acabados de lujo, planta baja, 3 recamaras, la principal con vestidor, baño y un espacio libre, las otras dos con closet y baño, medio baño de visitas, sala, comedor, cocina equipada y con refrigerador de dos puertas, elevador, elevador de servicio, cuarto de servicio y lavado, 2 lugares de estacionamiento, vigilancialas 24 hrs.",
+    "contact": 5573648592,
+    "trust": "images/check.svg",
+    "images": [
+      "/images/livingPlace/skgPolanco(1)/1.jpg",
+      "/images/livingPlace/skgPolanco(1)/2.jpg",
+      "/images/livingPlace/skgPolanco(1)/3.jpg",
+      "/images/livingPlace/skgPolanco(1)/4.jpg",
+      "/images/livingPlace/skgPolanco(1)/5.jpg",
+      "/images/livingPlace/skgPolanco(1)/6.jpg",
+      "/images/livingPlace/skgPolanco(1)/7.jpg",
+      "/images/livingPlace/skgPolanco(1)/8.jpg",
+      "/images/livingPlace/skgPolanco(1)/9.jpg"
+    ]
+  },
+  {
+    "id": 2,
+    "type": "Departamento",
+    "owner": "SNAP Bienes Raices",
+    "price": "55,000",
+    "offer": "Renta",
+    "location": {
+      "delegation": "Miguel Hidalgo",
+      "neighborhood": "Polanco",
+      "map": "Homero Polanco, Miguel Hidalgo",
+      "reference": {
+        "hotel": ["PUG SEAL ALLAN POE", "Las Alcobas"],
+        "government": ["Alcaldía Miguel Hidalgo"],
+        "park": ["Parque Lincoln"],
+        "mall": ["Plaza Moliere", "Pasaje Polanco"]
+      }
+    },
+    "details": {
+      "bedroom": 2,
+      "room": 2,
+      "parking": 0,
+      "bathroom": 3,
+      "area": 176,
+      "levels": 1
+    },
+    "description": "Muy bonito departamento amueblado con espacios amplios en edificio pequeño en homero polanco, bonitos acabados en madera, dos recámaras con baño, la principal con vestidor, estacionamiento para 1 auto, el edificio tiene alberca y jardin.",
+    "contact": 5570192892,
+    "trust": "images/noInfo.svg",
+    "images": [
+      "/images/livingPlace/snapPolanco(1)/1.jpg",
+      "/images/livingPlace/snapPolanco(1)/2.jpg",
+      "/images/livingPlace/snapPolanco(1)/3.jpg",
+      "/images/livingPlace/snapPolanco(1)/4.jpg",
+      "/images/livingPlace/snapPolanco(1)/5.jpg",
+      "/images/livingPlace/snapPolanco(1)/6.jpg",
+      "/images/livingPlace/snapPolanco(1)/7.jpg",
+      "/images/livingPlace/snapPolanco(1)/8.jpg",
+      "/images/livingPlace/snapPolanco(1)/9.jpg",
+      "/images/livingPlace/snapPolanco(1)/10.jpg"
+    ]
+  },
+  {
+    "id": 3,
+    "type": "Departamento",
+    "owner": "8T Bienes Raíces",
+    "price": "60,000",
+    "offer": "Renta",
+    "location": {
+      "delegation": "Miguel Hidalgo",
+      "neighborhood": "Polanco",
+      "map": "México, 11540, Miguel Hidalgo, Calle Oliver Goldsmith 317 Polanco, Miguel Hidalgo",
+      "reference": {
+        "hotel": ["PUG SEAL ALLAN POE", "Las Alcobas"],
+        "government": ["Alcaldía Miguel Hidalgo"],
+        "park": ["Parque Lincoln"],
+        "mall": ["Plaza Moliere", "Pasaje Polanco"]
+      }
+    },
+    "details": {
+      "bedroom": 3,
+      "room": 3,
+      "parking": 2,
+      "bathroom": 3.5,
+      "area": 170,
+      "levels": 1
+    },
+    "description": "Hermoso departamento en renta en la calle de goldsmith, polanco, entre ejército nacional y horacio. Hermoso departamento con acabados de lujo a estrenar en polanco. Súper iluminado bonita vista desde la sala. Recamara principal con vestidor y tina. Pisos de mármol y madera. Muros cubiertos de laja (piedra). Silencioso.                    A unas cuadras del liceo franco mexicano, supermercados, plazas. 3 habitaciones, baños: 3.5 Renta: 60,000 mxp, ubicado en el piso 4, dimensiones: 170 m2 Acceso controlado con seguridad las 24 hrs",
+    "contact": 5579283837,
+    "trust": "images/noInfo.svg",
+    "images": [
+      "/images/livingPlace/8T(1)/1.jpg",
+      "/images/livingPlace/8T(1)/2.jpg",
+      "/images/livingPlace/8T(1)/3.jpg",
+      "/images/livingPlace/8T(1)/4.jpg",
+      "/images/livingPlace/8T(1)/5.jpg",
+      "/images/livingPlace/8T(1)/6.jpg",
+      "/images/livingPlace/8T(1)/7.jpg",
+      "/images/livingPlace/8T(1)/8.jpg"
+    ]
+  },
+  {
+    "id": 4,
+    "type": "Departamento",
+    "owner": "ZONA R&G PONIENTE",
+    "price": "45,000",
+    "offer": "Renta",
+    "location": {
+      "delegation": "Miguel Hidalgo",
+      "neighborhood": "Lomas de Chapultepec",
+      "map": "ROSEDAL Lomas de Chapultepec, Miguel Hidalgo",
+      "reference": {
+        "church": ["Iglesia de Nuestra Señora de Covadonga"],
+        "government": [
+          "Agencia del Ministerio Publico 30 BIS",
+          "Alcaldía Miguel Hidalgo",
+          "Juzgado 11 del Registro Civil"
+        ],
+        "mall": ["Espacio Athos"],
+        "hospital": ["Grupo Médico Pediátrico S.C."]
+      }
+    },
+    "details": {
+      "bedroom": 3,
+      "room": 3,
+      "parking": 2,
+      "bathroom": 2,
+      "area": 231,
+      "levels": 2
+    },
+    "description": "El área social incluye sala y comedor amplios, cocina integral, baño de visitas, cuarto de servicio, cuarto de televisión, una terraza y un family muy agradables en el segundo piso donde podran recibir amigos con total privacía. Cuenta con 3 cajones de estacionamiento, mantenimiento incluido en la renta!!!. No pierdas la oportunidad de conocerlo, llamanos ahora y haz una cita.",
+    "contact": 5579320940,
+    "trust": "images/noInfo.svg",
+    "images": [
+      "/images/livingPlace/zonaR&G(1)/1.jpg",
+      "/images/livingPlace/zonaR&G(1)/2.jpg",
+      "/images/livingPlace/zonaR&G(1)/3.jpg",
+      "/images/livingPlace/zonaR&G(1)/4.jpg",
+      "/images/livingPlace/zonaR&G(1)/5.jpg",
+      "/images/livingPlace/zonaR&G(1)/6.jpg",
+      "/images/livingPlace/zonaR&G(1)/7.jpg"
+    ]
+  },
+  {
+    "id": 5,
+    "type": "Departamento",
+    "owner": "BridgePoint",
+    "price": "130,000",
+    "offer": "Renta",
+    "location": {
+      "delegation": "Miguel Hidalgo",
+      "neighborhood": "Lomas de Chapultepec",
+      "map": "Lomas de Chapultepec, Miguel Hidalgo",
+      "reference": {
+        "church": ["Iglesia de Nuestra Señora de Covadonga"],
+        "government": [
+          "Agencia del Ministerio Publico 30 BIS",
+          "Alcaldía Miguel Hidalgo",
+          "Juzgado 11 del Registro Civil"
+        ],
+        "mall": ["Espacio Athos"],
+        "hospital": ["Grupo Médico Pediátrico S.C."]
+      }
+    },
+    "details": {
+      "bedroom": 3,
+      "room": 4,
+      "parking": 2,
+      "bathroom": 2,
+      "area": 690,
+      "levels": 1
+    },
+    "description": "Depto en renta en una excelente ubicación a un paso de reforma (fuente de petróleos), amplia estancia que tiene un pequeño balcón, sala comedor, pisos de duela, cocina integral, cto de lavado, cto de servicio integrado, 2 recámaras, la principal con vestidor y baño, actualmente la 2da rec es sala de tv, baño de visitas que da servicio a la 2da rec. 2 estacionamientos (no fijos los mueve el portero), 2 elevadores, vigilancia 24 hrs, info y citas cel.",
+    "contact": 5522240940,
+    "trust": "images/noInfo.svg",
+    "images": [
+      "/images/livingPlace/zonaR&G(2)/1.jpg",
+      "/images/livingPlace/zonaR&G(2)/2.jpg",
+      "/images/livingPlace/zonaR&G(2)/3.jpg",
+      "/images/livingPlace/zonaR&G(2)/4.jpg",
+      "/images/livingPlace/zonaR&G(2)/5.jpg",
+      "/images/livingPlace/zonaR&G(2)/6.jpg",
+      "/images/livingPlace/zonaR&G(2)/7.jpg"
+    ]
+  },
+  {
+    "id": 6,
+    "type": "Departamento",
+    "owner": "BridgePoint",
+    "price": "27,500",
+    "offer": "Renta",
+    "location": {
+      "delegation": "Miguel Hidalgo",
+      "neighborhood": "Lomas de Chapultepec",
+      "map": "México, Ciudad de México, Ciudad de México, Miguel Hidalgo, Lomas Virreyes, Fernando Alencastre Lomas de Chapultepec, Miguel Hidalgo",
+      "reference": {
+        "church": ["Iglesia de Nuestra Señora de Covadonga"],
+        "government": [
+          "Agencia del Ministerio Publico 30 BIS",
+          "Alcaldía Miguel Hidalgo",
+          "Juzgado 11 del Registro Civil"
+        ],
+        "mall": ["Espacio Athos"],
+        "hospital": ["Grupo Médico Pediátrico S.C."]
+      }
+    },
+    "details": {
+      "bedroom": 2,
+      "room": 2,
+      "parking": 2,
+      "bathroom": 2,
+      "area": 167,
+      "levels": 2
+    },
+    "description": "Depto en renta en una excelente ubicación a un paso de reforma (fuente de petróleos), amplia estancia que tiene un pequeño balcón, sala comedor, pisos de duela, cocina integral, cto de lavado, cto de servicio integrado, 2 recámaras, la principal con vestidor y baño, actualmente la 2da rec es sala de tv, baño de visitas que da servicio a la 2da rec. 2 estacionamientos (no fijos los mueve el portero), 2 elevadores, vigilancia 24 hrs, info y citas cel.",
+    "contact": 5522240940,
+    "trust": "images/noInfo.svg",
+    "images": [
+      "/images/livingPlace/bridgePoint(1)/1.jpg",
+      "/images/livingPlace/bridgePoint(1)/2.jpg",
+      "/images/livingPlace/bridgePoint(1)/3.jpg",
+      "/images/livingPlace/bridgePoint(1)/4.jpg"
+    ]
+  },
+  {
+    "id": 7,
+    "type": "Departamento",
+    "owner": "Grupo Elige",
+    "price": "3,500,000",
+    "offer": "Venta",
+    "location": {
+      "delegation": "Miguel Hidalgo",
+      "neighborhood": "Anzures",
+      "map": "Anzures, Miguel Hidalgo",
+      "reference": {
+        "hotel": ["Camino Real Polanco"],
+        "government": ["Torre Negra"],
+        "park": [
+          "Centro Deportivo Chapultepec, A.C.",
+          "Comisión Nacional de Áreas Naturales Protegidas"
+        ],
+        "museum": ["Foro Cultural Chapultepec", "Museo Rufino Tamayo"]
+      }
+    },
+    "details": {
+      "bedroom": 2,
+      "room": 2,
+      "parking": 1,
+      "bathroom": 2,
+      "area": 85,
+      "levels": 1
+    },
+    "description": "Mide 85m2 2 recámaras 2 baños completos cuenta con1 estacionamiento fijo techado sin estorbarse con vecinos y bodega.",
+    "contact": 5524018230,
+    "trust": "images/noInfo.svg",
+    "images": [
+      "/images/livingPlace/grupoElige(1)/1.jpg",
+      "/images/livingPlace/grupoElige(1)/2.jpg",
+      "/images/livingPlace/grupoElige(1)/3.jpg",
+      "/images/livingPlace/grupoElige(1)/4.jpg",
+      "/images/livingPlace/grupoElige(1)/5.jpg",
+      "/images/livingPlace/grupoElige(1)/6.jpg"
+    ]
+  },
+  {
+    "id": 8,
+    "type": "Departamento",
+    "owner": "PG Bienes Raíces",
+    "price": "3,500,000",
+    "offer": "Venta",
+    "location": {
+      "delegation": "Benito Juárez",
+      "neighborhood": "Narvarte",
+      "map": "México, Benito Juárez, Avenida Cuauhtémoc 1012 Narvarte, Benito Juárez",
+      "reference": {
+        "park": ["Parque Manuel Gamio", "Club Deportivo Mallorca"],
+        "museum": [
+          "Museo del Sistema de Transportes Eléctricos",
+          "Centro Miravalle"
+        ]
+      }
+    },
+    "details": {
+      "bedroom": 3,
+      "room": 3,
+      "parking": 1,
+      "bathroom": 2,
+      "area": 100,
+      "levels": 1
+    },
+    "description": "Este genial departamento ha sido remodelado en su totalidad, con cambio de instalaciones hidráulicas, eléctricas, cocina nueva, renovación de baños, área de lavado, completamente pintado y pisos nuevos.",
+    "contact": 5524029230,
+    "trust": "images/noInfo.svg",
+    "images": [
+      "/images/livingPlace/pgBienesRaíces(1)/1.jpg",
+      "/images/livingPlace/pgBienesRaíces(1)/2.jpg",
+      "/images/livingPlace/pgBienesRaíces(1)/3.jpg",
+      "/images/livingPlace/pgBienesRaíces(1)/4.jpg",
+      "/images/livingPlace/pgBienesRaíces(1)/5.jpg",
+      "/images/livingPlace/pgBienesRaíces(1)/6.jpg",
+      "/images/livingPlace/pgBienesRaíces(1)/7.jpg",
+      "/images/livingPlace/pgBienesRaíces(1)/8.jpg",
+      "/images/livingPlace/pgBienesRaíces(1)/9.jpg",
+      "/images/livingPlace/pgBienesRaíces(1)/10.jpg",
+      "/images/livingPlace/pgBienesRaíces(1)/11.jpg"
+    ]
+  },
+  {
+    "id": 9,
+    "type": "Departamento",
+    "owner": "Craft Desarrollos",
+    "price": "14,200",
+    "offer": "Renta",
+    "location": {
+      "delegation": "Benito Juárez",
+      "neighborhood": "Narvarte",
+      "map": "Monte Alban Narvarte, Benito Juárez",
+      "reference": {
+        "park": ["Parque Manuel Gamio", "Club Deportivo Mallorca"],
+        "museum": [
+          "Museo del Sistema de Transportes Eléctricos",
+          "Centro Miravalle"
+        ]
+      }
+    },
+    "details": {
+      "bedroom": 1,
+      "room": 2,
+      "parking": 0,
+      "bathroom": 1,
+      "area": 45,
+      "levels": 1
+    },
+    "description": "Departamentos totalmente Amueblados e incluye pago de Servicios - Niu son espacios de vivienda que generan una nueva experiencia de cohabitar, dónde es fácil, práctico, integral y divertido estar y pertenecer.",
+    "contact": 5502719230,
+    "trust": "images/check.svg",
+    "images": [
+      "/images/livingPlace/craftDesarrollos(1)/1.jpg",
+      "/images/livingPlace/craftDesarrollos(1)/2.jpg",
+      "/images/livingPlace/craftDesarrollos(1)/3.jpg",
+      "/images/livingPlace/craftDesarrollos(1)/4.jpg",
+      "/images/livingPlace/craftDesarrollos(1)/5.jpg",
+      "/images/livingPlace/craftDesarrollos(1)/6.jpg",
+      "/images/livingPlace/craftDesarrollos(1)/7.jpg",
+      "/images/livingPlace/craftDesarrollos(1)/8.jpg",
+      "/images/livingPlace/craftDesarrollos(1)/9.jpg",
+      "/images/livingPlace/craftDesarrollos(1)/10.jpg",
+      "/images/livingPlace/craftDesarrollos(1)/11.jpg",
+      "/images/livingPlace/craftDesarrollos(1)/12.jpg",
+      "/images/livingPlace/craftDesarrollos(1)/13.jpg"
+    ]
+  },
+  {
+    "id": 10,
+    "type": "Departamento",
+    "owner": "BIENES RAICES DEL VALLE",
+    "price": "5,000",
+    "offer": "Renta",
+    "location": {
+      "delegation": "Gustavo A. Madero",
+      "neighborhood": "Lindavista Norte",
+      "map": "Lindavista Norte, Gustavo A. Madero",
+      "reference": {
+        "hotel": ["Fairfield Inn & Suites by Marriott Mexico City Vallejo"],
+        "park": ["Parque Vía Vallejo"]
+      }
+    },
+    "details": {
+      "bedroom": 1,
+      "room": 2,
+      "parking": 0,
+      "bathroom": 1,
+      "area": 20,
+      "levels": 1
+    },
+    "description": "BIENES RAICES DEL VALLE.",
+    "contact": 5523221929,
+    "trust": "images/noInfo.svg",
+    "images": [
+      "/images/livingPlace/bienesRaicesDelValle(3)/1.jpg",
+      "/images/livingPlace/bienesRaicesDelValle(3)/2.jpg",
+      "/images/livingPlace/bienesRaicesDelValle(3)/3.jpg",
+      "/images/livingPlace/bienesRaicesDelValle(3)/4.jpg"
+    ]
+  },
+  {
+    "id": 11,
+    "type": "Departamento",
+    "owner": "Inmoo",
+    "price": "19,500",
+    "offer": "Renta",
+    "location": {
+      "delegation": "Cucuhtémoc",
+      "neighborhood": "Roma Norte",
+      "map": "México, Cuauhtémoc, Plaza Luis Cabrera 10 Roma Norte, Cuauhtémoc",
+      "reference": {}
+    },
+    "details": {
+      "bedroom": 2,
+      "room": 2,
+      "parking": 0,
+      "bathroom": 1,
+      "area": 100,
+      "levels": 1
+    },
+    "description": "Success Red Inmobiliaria.",
+    "contact": 5523201548,
+    "trust": "images/check.svg",
+    "images": [
+      "/images/livingPlace/inmoo(1)/1.jpg",
+      "/images/livingPlace/inmoo(1)/2.jpg",
+      "/images/livingPlace/inmoo(1)/3.jpg",
+      "/images/livingPlace/inmoo(1)/4.jpg",
+      "/images/livingPlace/inmoo(1)/5.jpg",
+      "/images/livingPlace/inmoo(1)/6.jpg",
+      "/images/livingPlace/inmoo(1)/7.jpg"
+    ]
+  },
+  {
+    "id": 12,
+    "type": "Departamento",
+    "owner": "Rent a House México",
+    "price": "40,000",
+    "offer": "Renta",
+    "location": {
+      "delegation": "Cucuhtémoc",
+      "neighborhood": "Roma Norte",
+      "map": "México, Cuauhtémoc Roma Norte, Cuauhtémoc",
+      "reference": {}
+    },
+    "details": {
+      "bedroom": 3,
+      "room": 3,
+      "parking": 1,
+      "bathroom": 2,
+      "area": 120,
+      "levels": 1
+    },
+    "description": "Moderno y AMUEBLADO departamento en renta. Excelente ubicación, rodeado de cafes y restaurantes. Decoración de muy buen gusto. Lugar ideal para hacer feliz a su familia. Son 3 recamaras , 2 baños y 1 estacionamiento. Llama ya y haz tu cita.",
+    "contact": 5523871548,
+    "trust": "images/check.svg",
+    "images": [
+      "/images/livingPlace/rentaHouseMéxico(1)/1.jpg",
+      "/images/livingPlace/rentaHouseMéxico(1)/2.jpg",
+      "/images/livingPlace/rentaHouseMéxico(1)/3.jpg",
+      "/images/livingPlace/rentaHouseMéxico(1)/4.jpg",
+      "/images/livingPlace/rentaHouseMéxico(1)/5.jpg",
+      "/images/livingPlace/rentaHouseMéxico(1)/6.jpg",
+      "/images/livingPlace/rentaHouseMéxico(1)/7.jpg",
+      "/images/livingPlace/rentaHouseMéxico(1)/8.jpg",
+      "/images/livingPlace/rentaHouseMéxico(1)/9.jpg"
+    ]
+  },
+  {
+    "id": 13,
+    "type": "Departamento",
+    "owner": "Rent a House México",
+    "price": "19,000",
+    "offer": "Renta",
+    "location": {
+      "delegation": "Cucuhtémoc",
+      "neighborhood": "Roma Norte",
+      "map": "Roma Norte, Cuauhtémoc, Sinaloa",
+      "reference": {}
+    },
+    "details": {
+      "bedroom": 1,
+      "room": 2,
+      "parking": 0,
+      "bathroom": 1,
+      "area": 56,
+      "levels": 1
+    },
+    "description": "Moderno y AMUEBLADO departamento en renta. Excelente ubicación, rodeado de cafes y restaurantes. Decoración de muy buen gusto. Lugar ideal para hacer feliz a su familia. Haz tu cita.",
+    "contact": 5523871548,
+    "trust": "images/check.svg",
+    "images": [
+      "/images/livingPlace/rentaHouseMéxico(2)/1.jpg",
+      "/images/livingPlace/rentaHouseMéxico(2)/2.jpg",
+      "/images/livingPlace/rentaHouseMéxico(2)/3.jpg",
+      "/images/livingPlace/rentaHouseMéxico(2)/4.jpg",
+      "/images/livingPlace/rentaHouseMéxico(2)/5.jpg"
+    ]
+  },
+  {
+    "id": 14,
+    "type": "Departamento",
+    "owner": "Coral Espinoza",
+    "price": "21,500",
+    "offer": "Renta",
+    "location": {
+      "delegation": "Cucuhtémoc",
+      "neighborhood": "Roma Norte",
+      "map": "México, Cuauhtémoc Roma Norte, Cuauhtémoc",
+      "reference": {}
+    },
+    "details": {
+      "bedroom": 2,
+      "room": 2,
+      "parking": 1,
+      "bathroom": 2,
+      "area": 80,
+      "levels": 1
+    },
+    "description": "Cerca de avenidas principales, restaurantes, parques, escuelas, y cerca de trasnsportes públicos.",
+    "contact": 5521029658,
+    "trust": "images/check.svg",
+    "images": [
+      "/images/livingPlace/coralEspinoza(1)/1.jpg",
+      "/images/livingPlace/coralEspinoza(1)/2.jpg",
+      "/images/livingPlace/coralEspinoza(1)/3.jpg",
+      "/images/livingPlace/coralEspinoza(1)/4.jpg",
+      "/images/livingPlace/coralEspinoza(1)/5.jpg",
+      "/images/livingPlace/coralEspinoza(1)/6.jpg",
+      "/images/livingPlace/coralEspinoza(1)/7.jpg"
+    ]
+  },
+  {
+    "id": 15,
+    "type": "Departamento",
+    "owner": "Ambra",
+    "price": "8,187,200",
+    "offer": "Venta",
+    "location": {
+      "delegation": "Cuauhtémoc",
+      "neighborhood": "Condesa",
+      "map": "Iztaccíhuatl 17 Condesa, Cuauhtémoc",
+      "reference": {
+        "church": ["Iglesia Nuestra Señora del Carmen"],
+        "monument": [
+          "Obelisco a los Niños Heroes",
+          "Monumento a Los Niños Heroes"
+        ],
+        "museum": [
+          "Museo de Sitio y Centro de Visitantes del Bosque de Chapultepec",
+          "Castillo de Chapultepec",
+          "Museo del Caracol"
+        ]
+      }
+    },
+    "details": {
+      "bedroom": 1,
+      "room": 2.5,
+      "parking": 1,
+      "bathroom": 2,
+      "area": 96.32,
+      "levels": 1
+    },
+    "description": "Iztaccíhuatl 17 es un proyecto de AMBRA | Ar(t)chitectural Developer de vivienda, con el diseño del taller de arquitectos de Javier Sánchez JSª, ubicado en la colonia Hipódromo. Como un personaje de la Ciudad de México, este edificio de forma irregular constituye una serie de lineamientos arquitectónicos para convertirse en un inmueble de vivienda. El desarrollo tiene una superficie de 677.92 m2 y se encuentra catalogado por el Instituto Nacional de Bellas Artes (INBA) y también por la Secretaría de Desarrollo Urbano y Vivienda (SEDUVI). Es un edificio de cinco departamentos, construidos de acuerdo con el diseño de sus propias tipologías, que permite la interacción conjunta gracias a unas escaleras centrales. La considerada como área libre del inmueble direcciona la arquitectura de Iztaccíhuatl 17 en un recorrido visual y estético, principalmente por sus amplios ventanales que permiten la entrada de luz natural.",
+    "contact": 5583740264,
+    "trust": "images/check.svg",
+    "images": [
+      "/images/livingPlace/ambra(1)/1.jpg",
+      "/images/livingPlace/ambra(1)/2.jpg",
+      "/images/livingPlace/ambra(1)/3.jpg"
+    ]
+  },
+  {
+    "id": 16,
+    "type": "Departamento",
+    "owner": "Alianza Inmobiliaria",
+    "price": "21,500",
+    "offer": "Renta",
+    "location": {
+      "delegation": "Cuauhtémoc",
+      "neighborhood": "Condesa",
+      "map": "México, Distrito Federal, Cuauhtémoc, Condesa, Cto. Interior José Vasconcelos 70 Condesa, Cuauhtémoc",
+      "reference": {
+        "church": ["Iglesia Nuestra Señora del Carmen"],
+        "monument": [
+          "Obelisco a los Niños Heroes",
+          "Castillo de Chapultepec",
+          "Monumento a Los Niños Heroes"
+        ],
+        "museum": [
+          "Museo de Sitio y Centro de Visitantes del Bosque de Chapultepec",
+          "Museo del Caracol"
+        ]
+      }
+    },
+    "details": {
+      "bedroom": 2,
+      "room": 2,
+      "parking": 2,
+      "bathroom": 2,
+      "area": 113.88,
+      "levels": 1
+    },
+    "description": "Departamento exterior nuevo de 2 recamaras, uso habitacional. =( no mascotas ya que el piso es de madera, se puede aceptar una mascota pequeña con 2 depositos en garantia).",
+    "contact": 5521753542,
+    "trust": "images/check.svg",
+    "images": [
+      "/images/livingPlace/alianzaInmobiliaria(1)/1.jpg",
+      "/images/livingPlace/alianzaInmobiliaria(1)/2.jpg",
+      "/images/livingPlace/alianzaInmobiliaria(1)/3.jpg",
+      "/images/livingPlace/alianzaInmobiliaria(1)/4.jpg",
+      "/images/livingPlace/alianzaInmobiliaria(1)/5.jpg",
+      "/images/livingPlace/alianzaInmobiliaria(1)/6.jpg",
+      "/images/livingPlace/alianzaInmobiliaria(1)/7.jpg",
+      "/images/livingPlace/alianzaInmobiliaria(1)/8.jpg",
+      "/images/livingPlace/alianzaInmobiliaria(1)/9.jpg"
+    ]
+  },
+  {
+    "id": 17,
+    "type": "Departamento",
+    "owner": "Coldwell Banker City",
+    "price": "26,500",
+    "offer": "Renta",
+    "location": {
+      "delegation": "Cucuhtémoc",
+      "neighborhood": "Roma Sur",
+      "map": "Tlacotalpan Roma Sur, Cuauhtémoc",
+      "reference": {
+        "hotel": ["Fiesta Inn Insurgentes Viaducto"],
+        "government": ["Radio UNAM"],
+        "park": ["Parque Maria Enriqueta Camarillo", "Parque Delta"],
+        "hospital": ["Carlos McGregor Sánchez"]
+      }
+    },
+    "details": {
+      "bedroom": 2,
+      "room": 4,
+      "parking": 0,
+      "bathroom": 2,
+      "area": 110,
+      "levels": 1
+    },
+    "description": "Departamento nuevo en Renta listo para estrenar de 88m2 mas una terraza de 22m2 en agradable conjunto recién construido en la Roma Sur en excelente ubicación. Dos recamaras, 2 baños completos, amplia estancia comedor con cocina abierta, pisos de ingeniería y losetas, cuarto de lavado, 2 estacionamientos y bodega. Roof garden con asador y jacuzzi. mantenimiento incluido.",
+    "contact": 5542752102,
+    "trust": "images/check.svg",
+    "images": [
+      "/images/livingPlace/coldwellBankerCity(1)/1.jpg",
+      "/images/livingPlace/coldwellBankerCity(1)/2.jpg",
+      "/images/livingPlace/coldwellBankerCity(1)/3.jpg",
+      "/images/livingPlace/coldwellBankerCity(1)/4.jpg",
+      "/images/livingPlace/coldwellBankerCity(1)/5.jpg",
+      "/images/livingPlace/coldwellBankerCity(1)/6.jpg",
+      "/images/livingPlace/coldwellBankerCity(1)/7.jpg",
+      "/images/livingPlace/coldwellBankerCity(1)/8.jpg",
+      "/images/livingPlace/coldwellBankerCity(1)/9.jpg",
+      "/images/livingPlace/coldwellBankerCity(1)/10.jpg"
+    ]
+  },
+  {
+    "id": 18,
+    "type": "Departamento",
+    "owner": "Coldwell Banker City",
+    "price": "39,000",
+    "offer": "Renta",
+    "location": {
+      "delegation": "Cuauhtémoc",
+      "neighborhood": "Roma Sur",
+      "map": "Roma Sur, Cuauhtémoc",
+      "reference": {
+        "hotel": ["Fiesta Inn Insurgentes Viaducto"],
+        "government": ["Radio UNAM"],
+        "park": ["Parque Maria Enriqueta Camarillo", "Parque Delta"],
+        "hospital": ["Carlos McGregor Sánchez"]
+      }
+    },
+    "details": {
+      "bedroom": 2,
+      "room": 2,
+      "parking": 2,
+      "bathroom": 2,
+      "area": 100,
+      "levels": 1
+    },
+    "description": "Excelentes acabados y diseño contemporáneo. Seguridad 24 hrs.",
+    "contact": 5548263545,
+    "trust": "images/check.svg",
+    "images": [
+      "/images/livingPlace/coldwellBankerCity(2)/1.jpg",
+      "/images/livingPlace/coldwellBankerCity(2)/2.jpg",
+      "/images/livingPlace/coldwellBankerCity(2)/3.jpg",
+      "/images/livingPlace/coldwellBankerCity(2)/4.jpg",
+      "/images/livingPlace/coldwellBankerCity(2)/5.jpg",
+      "/images/livingPlace/coldwellBankerCity(2)/6.jpg",
+      "/images/livingPlace/coldwellBankerCity(2)/7.jpg",
+      "/images/livingPlace/coldwellBankerCity(2)/8.jpg",
+      "/images/livingPlace/coldwellBankerCity(2)/9.jpg",
+      "/images/livingPlace/coldwellBankerCity(2)/10.jpg",
+      "/images/livingPlace/coldwellBankerCity(2)/11.jpg",
+      "/images/livingPlace/coldwellBankerCity(2)/12.jpg"
+    ]
+  },
+
+  {
+    "id": 19,
+    "type": "Casa",
+    "owner": "Sinergia Inversión Patrimonial",
+    "price": "4,500,000",
+    "offer": "Venta",
+    "location": {
+      "delegation": "Miguel Hidalgo",
+      "neighborhood": "Polanco",
+      "map": "México, Miguel Hidalgo, Calle Anatole France 230 Polanco, Miguel Hidalgo",
+      "reference": {
+        "hotel": ["PUG SEAL ALLAN POE", "Las Alcobas"],
+        "government": ["Alcaldía Miguel Hidalgo"],
+        "park": ["Parque Lincoln"],
+        "mall": ["Plaza Moliere", "Pasaje Polanco"]
+      }
+    },
+    "details": {
+      "bedroom": 3,
+      "room": 3,
+      "parking": 2,
+      "bathroom": 2,
+      "area": 457,
+      "levels": 2
+    },
+    "description": "Propiedad de remate en exclente ubicación,atencion personal fermin puente:, solamente recursos propios(ningun tipo de credito). Ubicación de facil acceso, vias de comunicación principales;escuelas, hospitales y centros comerciales cercanos. La propiedad cuenta con sentencia definitiva a favor del banco para su adjudicación. Invierte seguro!!! Tenga usted la tranquilidad y certeza que con nosotros su inversión se encuentra segura compruébelo usted mismo, somos una empresa que ofrece consultoría legal especializada en el tema de remates bancarios, contamos con amplia experiencia, los inmuebles se encuentran entre un 50% y un 70% por debajo de su valor comercial, excelente oportunidad de inversión o para habitar. Aclara tus dudas y decide ahora, previa cita.",
+    "contact": 5537465122,
+    "trust": "images/noInfo.svg",
+    "images": [
+      "/images/livingPlace/sinergiaInversiones(1)/1.jpg",
+      "/images/livingPlace/sinergiaInversiones(1)/2.jpg",
+      "/images/livingPlace/sinergiaInversiones(1)/3.jpg"
+    ]
+  },
+  {
+    "id": 20,
+    "type": "Casa",
+    "owner": "Sinergia Inversión Patrimonial",
+    "price": "1,097,513",
+    "offer": "Venta",
+    "location": {
+      "delegation": "Miguel Hidalgo",
+      "neighborhood": "Polanco",
+      "map": "México, Miguel Hidalgo, Calle Anatole France 230 Polanco, Miguel Hidalgo",
+      "reference": {
+        "hotel": ["PUG SEAL ALLAN POE", "Las Alcobas"],
+        "government": ["Alcaldía Miguel Hidalgo"],
+        "park": ["Parque Lincoln"],
+        "mall": ["Plaza Moliere", "Pasaje Polanco"]
+      }
+    },
+    "details": {
+      "bedroom": 4,
+      "room": 4,
+      "parking": 2,
+      "bathroom": 3,
+      "area": 172,
+      "levels": 3
+    },
+    "description": "Somos especialistas en la materia, contamos con un gran inventario incluyendo interior de la república y zonas exclusivas de ciudad de méxico y estado de méxico.",
+    "contact": 5574600398,
+    "trust": "images/noInfo.svg",
+    "images": ["/images/livingPlace/sinergiaInversiones(2)/1.jpg"]
+  },
+  {
+    "id": 21,
+    "type": "Casa",
+    "owner": "Mk Bienes Raíces",
+    "price": "14,000,000",
+    "offer": "Venta",
+    "location": {
+      "delegation": "Benito Juárez",
+      "neighborhood": "Del Valle",
+      "map": "Del Valle, Benito Juárez",
+      "reference": {
+        "church": ["El Purísimo Corazón de María"],
+        "government": ["Cofepris", "World Trade Center"],
+        "park": ["Parque Mariscal Sucre"],
+        "museum": ["Polyforum Siqueiros"],
+        "hospital": ["UMF 28 Gabriel Mancera"]
+      }
+    },
+    "details": {
+      "bedroom": 3,
+      "room": 3,
+      "parking": 1,
+      "bathroom": 3,
+      "area": 299,
+      "levels": 1
+    },
+    "description": "Casa de lujo en condominio en la Colonia Del Valle. Construida en 3 niveles sobre 100 m2 de terreno , con un total de 299 m2 de construcción; solamente tiene 2 años de antigüedad, acondicionada para ser una smart home, cuenta con con sistemas de audio, control de cámaras de seguridad, encendido de luces y control de aparatos electrónicos de forma remota. Está distribuida de la siguiente manera: en el sótano tiene 3 lugares de estacionamiento y 1 bodega pequeña; en la planta baja por la sala a doble altura, terraza con techo abatible eléctrico, comedor para 10 personas, cocina integral y un baño de visitas; subiendo, en el primer nivel encontramos la recámara principal con baño completo, vestidor, balcón y un cuarto de tv; en el segundo nivel encontramos dos recámaras, cada una con su baño completo y su closet; en el tercel nivel se encuentra el cuarto de servicio con baño completo, cuarto de lavado con área de balcón y una terraza con una tina de hidromasaje para exteriores. El condominio cuenta con seguridad las 24 horas, limpieza de las área comunes, jardinería de las área comunes, cámaras de seguridad, portón eléctrico y recepción.",
+    "contact": 5522222230,
+    "trust": "images/noInfo.svg",
+    "images": [
+      "/images/livingPlace/Mk(1)/1.jpg",
+      "/images/livingPlace/Mk(1)/2.jpg",
+      "/images/livingPlace/Mk(1)/3.jpg",
+      "/images/livingPlace/Mk(1)/4.jpg",
+      "/images/livingPlace/Mk(1)/5.jpg",
+      "/images/livingPlace/Mk(1)/6.jpg",
+      "/images/livingPlace/Mk(1)/7.jpg",
+      "/images/livingPlace/Mk(1)/8.jpg",
+      "/images/livingPlace/Mk(1)/9.jpg",
+      "/images/livingPlace/Mk(1)/10.jpg",
+      "/images/livingPlace/Mk(1)/11.jpg"
+    ]
+  },
+  {
+    "id": 22,
+    "type": "Casa",
+    "owner": "InmoTarget",
+    "price": "8,950,000",
+    "offer": "Venta",
+    "location": {
+      "delegation": "Benito Juárez",
+      "neighborhood": "Del Valle",
+      "map": "México, Benito Juárez, Del Valle Sur, Aniceto Ortega Del Valle, Benito Juárez",
+      "reference": {
+        "church": ["El Purísimo Corazón de María"],
+        "government": ["Cofepris", "World Trade Center"],
+        "park": ["Parque Mariscal Sucre"],
+        "museum": ["Polyforum Siqueiros"],
+        "hospital": ["UMF 28 Gabriel Mancera"]
+      }
+    },
+    "details": {
+      "bedroom": 3,
+      "room": 3,
+      "parking": 2,
+      "bathroom": 3,
+      "area": 200,
+      "levels": 3
+    },
+    "description": "Del valle sur, hermosa casa en condominio, excelente estado de conservación, muy iluminada, calle tranquila, con iluminación led, 3 recámaras, 2 1/2 baños, recámara principal con vestidor y baño, sala de t.v., 2 cajones de estacionamiento cubiertos, cuarto de servicio con baño, vigilancia 24 horas.",
+    "contact": 5593822230,
+    "trust": "images/noInfo.svg",
+    "images": [
+      "/images/livingPlace/inmoTarget(1)/1.jpg",
+      "/images/livingPlace/inmoTarget(1)/2.jpg",
+      "/images/livingPlace/inmoTarget(1)/3.jpg",
+      "/images/livingPlace/inmoTarget(1)/4.jpg",
+      "/images/livingPlace/inmoTarget(1)/5.jpg",
+      "/images/livingPlace/inmoTarget(1)/6.jpg",
+      "/images/livingPlace/inmoTarget(1)/7.jpg",
+      "/images/livingPlace/inmoTarget(1)/8.jpg",
+      "/images/livingPlace/inmoTarget(1)/9.jpg"
+    ]
+  },
+  {
+    "id": 23,
+    "type": "Casa",
+    "owner": "Sinergia Inversión Patrimonial",
+    "price": "897,500",
+    "offer": "Venta",
+    "location": {
+      "delegation": "Benito Juárez",
+      "neighborhood": "Del Valle",
+      "map": "México, Ciudad de México, Benito Juárez, Del Valle Sur, Callejón Nanche Del Valle, Benito Juárez",
+      "reference": {
+        "church": ["El Purísimo Corazón de María"],
+        "government": ["Cofepris", "World Trade Center"],
+        "park": ["Parque Mariscal Sucre"],
+        "museum": ["Polyforum Siqueiros"],
+        "hospital": ["UMF 28 Gabriel Mancera"]
+      }
+    },
+    "details": {
+      "bedroom": 4,
+      "room": 4,
+      "parking": 3,
+      "bathroom": 2,
+      "area": 440,
+      "levels": 1
+    },
+    "description": "Somos especialistas en la materia, contamos con un gran inventario incluyendo interior de la República y zonas exclusivas de Ciudad de México y Estado de México.",
+    "contact": 5593002230,
+    "trust": "images/noInfo.svg",
+    "images": ["/images/livingPlace/sinergiaInversiones(3)/1.jpg"]
+  },
+  {
+    "id": 24,
+    "type": "Casa",
+    "owner": "Sinergia Inversión Patrimonial",
+    "price": "9,100,000",
+    "offer": "Venta",
+    "location": {
+      "delegation": "Benito Juárez",
+      "neighborhood": "Del Valle",
+      "map": "México, 03020, Benito Juárez, José Enrique Pestalozzi 620 Narvarte, Benito Juárez",
+      "reference": {
+        "park": ["Parque Manuel Gamio", "Club Deportivo Mallorca"],
+        "museum": [
+          "Museo del Sistema de Transportes Eléctricos",
+          "Centro Miravalle"
+        ]
+      }
+    },
+    "details": {
+      "bedroom": 3,
+      "room": 3,
+      "parking": 1,
+      "bathroom": 2,
+      "area": 198,
+      "levels": 2
+    },
+    "description": "Ofrecemos todas las garantías y la certeza que se requiere con utilidades mayores a la de cualquier institución financiera por el tipo de operación. Esta propiedad es remate bancario no se acepta crédito hipotecario.",
+    "contact": 5590212299,
+    "trust": "images/noInfo.svg",
+    "images": ["/images/livingPlace/sinergiaInversiones(3)/1.jpg"]
+  },
+  {
+    "id": 25,
+    "type": "Casa",
+    "owner": "BIENES RAICES DEL VALLE",
+    "price": "18,900,000",
+    "offer": "Venta",
+    "location": {
+      "delegation": "Gustavo A. Madero",
+      "neighborhood": "Lindavista Norte",
+      "map": "Lindavista Norte, Gustavo A. Madero",
+      "reference": {
+        "hotel": ["Fairfield Inn & Suites by Marriott Mexico City Vallejo"],
+        "park": ["Parque Vía Vallejo"]
+      }
+    },
+    "details": {
+      "bedroom": 3,
+      "room": 3,
+      "parking": 4,
+      "bathroom": 4,
+      "area": 591,
+      "levels": 2
+    },
+    "description": "Ofrecemos casa con 3 recamaras con baño completo y vestidor cada una.",
+    "contact": 5568254299,
+    "trust": "images/noInfo.svg",
+    "images": [
+      "/images/livingPlace/bienesRaicesDelValle(1)/1.jpg",
+      "/images/livingPlace/bienesRaicesDelValle(1)/2.jpg",
+      "/images/livingPlace/bienesRaicesDelValle(1)/3.jpg",
+      "/images/livingPlace/bienesRaicesDelValle(1)/4.jpg",
+      "/images/livingPlace/bienesRaicesDelValle(1)/5.jpg",
+      "/images/livingPlace/bienesRaicesDelValle(1)/6.jpg",
+      "/images/livingPlace/bienesRaicesDelValle(1)/7.jpg",
+      "/images/livingPlace/bienesRaicesDelValle(1)/8.jpg",
+      "/images/livingPlace/bienesRaicesDelValle(1)/9.jpg",
+      "/images/livingPlace/bienesRaicesDelValle(1)/10.jpg",
+      "/images/livingPlace/bienesRaicesDelValle(1)/11.jpg",
+      "/images/livingPlace/bienesRaicesDelValle(1)/12.jpg",
+      "/images/livingPlace/bienesRaicesDelValle(1)/13.jpg"
+    ]
+  },
+  {
+    "id": 26,
+    "type": "Casa",
+    "owner": "BIENES RAICES DEL VALLE",
+    "price": "4,900,000",
+    "offer": "Venta",
+    "location": {
+      "delegation": "Gustavo A. Madero",
+      "neighborhood": "Lindavista Norte",
+      "map": "México, Gustavo A Madero, Calle Paranaguá 217 Lindavista Norte, Gustavo A. Madero",
+      "reference": {
+        "hotel": ["Fairfield Inn & Suites by Marriott Mexico City Vallejo"],
+        "park": ["Parque Vía Vallejo"]
+      }
+    },
+    "details": {
+      "bedroom": 3,
+      "room": 3,
+      "parking": 1,
+      "bathroom": 2,
+      "area": 120,
+      "levels": 2
+    },
+    "description": "Aproveche la oportunidad, Linda casa, excelente ubicación, en Zona de lindavista. No se aceptan créditos (Infonavit, fovisste ni bancarios).",
+    "contact": 5523142299,
+    "trust": "images/noInfo.svg",
+    "images": ["/images/livingPlace/bienesRaicesDelValle(2)/1.jpg"]
+  }
+]
